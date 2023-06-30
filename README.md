@@ -1,2 +1,1 @@
-My first readme
-My first readme
+The journey of life
